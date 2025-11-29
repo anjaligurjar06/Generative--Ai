@@ -1,0 +1,81 @@
+Artificial intelligence is no longer a distant concept imagined in science fiction. It exists quietly in everyday life, recommending music, correcting grammar, navigating roads, and organizing information faster than any human could.
+
+Language is one of the most complex human inventions. Words carry meaning, emotion, intent, and history. Teaching a machine to understand language requires exposing it to countless patterns, sentences, and ideas written by humans.
+
+Machine learning models do not think or feel. They learn by observing relationships between words over time. When a model sees language again and again, it begins to recognize structure, grammar, and flow.
+
+The process of training a language model involves predicting what comes next. Given a sequence of words, the model attempts to guess the next one. Every mistake slightly adjusts its internal parameters, making the next prediction more accurate.
+
+Over millions of such predictions, the model slowly improves. It does not memorize entire documents, but it learns probabilities. Certain words follow others more often. Certain sentence structures appear in specific contexts.
+
+Technology evolves through iteration. Early systems were rule-based and fragile. Modern neural networks are flexible and capable of generalization. However, they still depend heavily on the quality of data provided during training.
+
+Clean data leads to clearer understanding. Noisy data leads to confusion. A well-prepared dataset can teach a smaller model more effectively than a massive unfiltered one.
+
+Ethics and responsibility are critical when building intelligent systems. A model trained on biased data may reproduce harmful patterns. Careful selection and review of training material is essential.
+
+Learning never truly ends for intelligent systems. As new information appears, models must adapt. Continuous training allows systems to stay relevant in a rapidly changing world.
+
+In the future, intelligent machines may assist humans not by replacing creativity, but by enhancing it. Writing, research, education, and communication can all benefit when humans and machines work together.
+
+Progress in artificial intelligence is shaped by curiosity, discipline, and thoughtful design. The goal is not to replicate the human mind, but to build tools that extend human potential while respecting human values.
+The Indian Premier League 2025 was the 18th season of the IPL tournament.
+The tournament was played from March 22, 2025 to June 3, 2025 across India.
+A total of ten teams participated in the competition, following the standard T20 league format with league matches and playoffs.
+
+Royal Challengers Bengaluru won the IPL 2025 title, claiming their first-ever IPL championship after many seasons.
+Punjab Kings were the runners-up of the tournament.
+The final match was held at the Narendra Modi Stadium in Ahmedabad.
+
+In the final, Royal Challengers Bengaluru scored 190 runs for the loss of 9 wickets in 20 overs.
+Punjab Kings replied with 184 runs for 7 wickets in 20 overs.
+Royal Challengers Bengaluru won the match by 6 runs.
+Krunal Pandya was named Player of the Match for his crucial performance in the final.
+
+Sai Sudharsan from Gujarat Titans finished as the highest run scorer of IPL 2025 with 759 runs.
+Prasidh Krishna from Gujarat Titans was the highest wicket taker of the season with 25 wickets.
+Suryakumar Yadav from Mumbai Indians won the Most Valuable Player award for IPL 2025.
+
+IPL 2025 featured many high-scoring matches and close finishes.
+Several teams crossed the 200-run mark multiple times during the season.
+Young players and emerging talents played a key role alongside experienced international cricketers.
+
+The tournament once again highlighted the popularity of T20 cricket in India.
+IPL 2025 attracted millions of viewers worldwide through live broadcasts and digital platforms.
+The season was remembered for competitive matches, strong performances, and Royal Challengers Bengaluru’s historic title victory.
+The Indian Premier League 2025 was the 18th edition of the IPL.
+The tournament was organized by the Board of Control for Cricket in India.
+IPL 2025 was played from March 22, 2025 to June 3, 2025.
+
+Ten teams participated in IPL 2025.
+The teams were Chennai Super Kings, Mumbai Indians, Royal Challengers Bengaluru, Kolkata Knight Riders, Rajasthan Royals, Sunrisers Hyderabad, Delhi Capitals, Punjab Kings, Gujarat Titans, and Lucknow Super Giants.
+
+The league stage was followed by playoffs consisting of Qualifier 1, Eliminator, Qualifier 2, and the Final.
+A total of 74 matches were played during the tournament.
+
+Royal Challengers Bengaluru won the IPL 2025 championship.
+This was the first IPL title in the history of Royal Challengers Bengaluru.
+Punjab Kings finished as the runners-up of IPL 2025.
+
+The IPL 2025 final was played on June 3, 2025 at Narendra Modi Stadium, Ahmedabad.
+Royal Challengers Bengaluru scored 190 runs for 9 wickets in 20 overs in the final.
+Punjab Kings scored 184 runs for 7 wickets in 20 overs.
+Royal Challengers Bengaluru won the final match by 6 runs.
+
+Krunal Pandya was awarded Player of the Match in the IPL 2025 final.
+His bowling performance played a key role in defending the total.
+
+Sai Sudharsan of Gujarat Titans won the Orange Cap for scoring the most runs in IPL 2025.
+He scored a total of 759 runs in the season.
+Prasidh Krishna of Gujarat Titans won the Purple Cap for taking the most wickets.
+He took 25 wickets during the tournament.
+
+Suryakumar Yadav of Mumbai Indians was named the Most Valuable Player of IPL 2025.
+He delivered consistent performances throughout the season.
+
+IPL 2025 featured several high-scoring matches with teams frequently crossing the 200-run mark.
+The season showcased a mix of experienced international cricketers and young Indian talents.
+Several close matches and last-over finishes made the tournament highly competitive.
+
+IPL 2025 received massive viewership both in stadiums and on digital and television platforms.
+The season was widely appreciated for its entertainment value, competitive balance, and historic maiden title win for Royal Challengers Bengaluru.
